@@ -60,7 +60,7 @@ Shopping App ✅
     Shopping is designed to provide users with a superior online shopping experience. With its rich feature set, intuitive design, and secure backend integration, it stands as a powerful tool for both consumers and businesses in the e-commerce space.
 
 # Screens
-[1] Welcome Screen
+[1] splash Screen
 [2] OnBoarding Screens
 [3] Login Screen
 [4] Register Screen
@@ -74,7 +74,7 @@ Shopping App ✅
 
 
 # Create Screen Done
-[1] Welcome Screen
+[1] splash Screen
 [2] OnBoarding Screens
 [3] Login Screen
 [4] Register Screen
@@ -88,7 +88,7 @@ Shopping App ✅
 
 
 # Screenshots
-[-] Welcome Screen
+[-] splash Screen
 
 ![Splash Screen](https://github.com/user-attachments/assets/6d5fd759-828f-49b6-9304-f34ba2c7e81c)
 
