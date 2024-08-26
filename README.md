@@ -60,15 +60,31 @@ Shopping App ✅
     Shopping is designed to provide users with a superior online shopping experience. With its rich feature set, intuitive design, and secure backend integration, it stands as a powerful tool for both consumers and businesses in the e-commerce space.
 
 # Screens
-- [1] Sign In Screen
-- [2] Sign Up Screen
-- [3] Profile Screen
+[1] Welcome Screen
+[2] OnBoarding Screens
+[3] Login Screen
+[4] Register Screen
+[5] Home Screen
+[6] Products List Screen
+[7] Castigators Screen
+[8] Favorites Screen
+[9] Profile Screen
+[10] Search Screen
+[11] Settings Screen
 
 
 # Create Screen Done
-- [1] Sign In Screen
-- [2] Sign Up Screen
-- [3] Profile Screen
+[1] Welcome Screen
+[2] OnBoarding Screens
+[3] Login Screen
+[4] Register Screen
+[5] Home Screen
+[6] Products List Screen
+[7] Castigators Screen
+[8] Favorites Screen
+[9] Profile Screen
+[10] Search Screen
+[11] Settings Screen
 
 
 # Screenshots
