@@ -78,15 +78,17 @@ Shopping App ✅
 
 [-] OnBoarding Screens
 
-![OnBoarding_2](https://github.com/user-attachments/assets/b67e2179-a70a-4f7e-8d97-a0f6e327f81b)
 ![OnBoarding_1](https://github.com/user-attachments/assets/760f5ebf-5015-4a9b-9917-f818b713acb4)
+
+![OnBoarding_2](https://github.com/user-attachments/assets/b67e2179-a70a-4f7e-8d97-a0f6e327f81b)
+
 ![OnBoarding_3](https://github.com/user-attachments/assets/661ee10e-7609-4f3b-97ec-5b22eb03ae75)
 
-[-] Login Screen 
+[-] Login Screen
 
 ![Login Screen](https://github.com/user-attachments/assets/37f5d945-38cd-49d8-a8b3-8909db460153)
 
-[-] Validation Login Screen 
+[-] Validation in Login Screen 
 
 ![Validation Login Screen](https://github.com/user-attachments/assets/79911fe1-8828-4c42-81cf-128e4a42f13d)
 
@@ -100,7 +102,7 @@ Shopping App ✅
 
 ![Register Screen 2](https://github.com/user-attachments/assets/5b164f8a-2dbd-4a40-9886-5da4601100ab)
 
-[-] Validation Register Screen
+[-] Validation in Register Screen
 
 ![Validation Register Screen](https://github.com/user-attachments/assets/2411e5ad-cc33-4e43-9f17-195bf24a066a)
 
