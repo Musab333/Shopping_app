@@ -136,6 +136,16 @@ Shopping App ✅
 
 ![Castigators Screen](https://github.com/user-attachments/assets/04859dfe-2dbe-4f18-b7b2-c313f89766df)
 
+[-] Search loading Screen
+
+![Search Loading Screen](https://github.com/user-attachments/assets/1d54c913-215b-45ec-90b4-c75bfe6f2afc)
+
+
+[-] Search Screen
+
+![Search Screen](https://github.com/user-attachments/assets/3f0eb321-882c-47b7-94ce-e7fcb90b508d)
+
+
 # packages & Dependencies
 
   cupertino_icons: ^1.0.2
